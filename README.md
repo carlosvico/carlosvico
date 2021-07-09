@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**carlosvico/carlosvico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Oiii! Eu sou o Carlo Vieira 
  <div>
   <a href="https://github.com/carlosvico">
