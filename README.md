@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Oiii! Eu sou o Carlo Vieira 
+## Oiii! Eu sou o Carlos Vieira 
  <div>
-  <a href="https://github.com/carlos-vico">
+  <a href="https://github.com/carlosvico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-vico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
