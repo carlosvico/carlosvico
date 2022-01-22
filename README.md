@@ -1,5 +1,6 @@
 ### Oi 👋 !
 ## Eu sou o Carlos Vieira 
+##### Apaixona pela Técnologia, música e uma boa leitura técnica.
  <div>
   <a href="https://github.com/carlosvico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
