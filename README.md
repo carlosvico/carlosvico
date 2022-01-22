@@ -1,6 +1,9 @@
 ### Oi 👋 !
 ## Eu sou o Carlos Vieira 
-##### Apaixonado pela Técnologia, música e uma boa leitura técnica.
+##### 
+" ⚡ Biografia rápida:                       "Apaixonado pela Tecnologia, música e uma boa leitura técnica 🤪.",
+#### Como chegar até mim
+
  <div>
   <a href="https://github.com/carlosvico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosvico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,7 +13,7 @@
   <img align="center" alt="Carlos-crl-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carlos-HTML" height="35" width="40" <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
