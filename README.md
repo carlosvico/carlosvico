@@ -2,7 +2,7 @@
 ## Eu sou o Carlos Vieira 
 ##### 
 " ⚡ Biografia rápida:                       "Apaixonado pela Tecnologia, música e uma boa leitura técnica 🤪.",
-#### Como chegar até mim
+
 
  <div>
   <a href="https://github.com/carlosvico">
