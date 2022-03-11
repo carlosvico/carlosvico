@@ -1,7 +1,7 @@
 ### Oi 👋 !
 ## Eu sou o Carlos Vieira 
 ##### 
-" ⚡ Biografia rápida:                       "Apaixonado pela Tecnologia, música e uma boa leitura técnica 🤪.",
+" ⚡ Biografia rápida:                       "Apaixonado pela Tecnologia, música e uma boa leitura técnica 🤪. ",
 
 
  <div>
